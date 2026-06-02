@@ -1,0 +1,9 @@
+Apple is a Fruit 
+Banana is a Fruit
+Cherry is a Fruit
+Dark Chocolate can be eaten as a Snack
+Breakfast is at 9am
+Pumpkin is a Vegetable
+The user loves blueberries
+I'll have my lunch at 1pm
+The user lives in Mumbai, India
